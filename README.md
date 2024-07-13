@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Logadeep R</h1>
 
-<!--
-**logadeep203/logadeep203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 I am a passionate Full Stack Developer with expertise in modern web development technologies and a keen interest in integrating traditional practices with cutting-edge technology. Currently pursuing my final year of BE in Computer Science and Engineering.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  👀 Competitive Programming and Problem Solving Enthusiast.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🔧 Skills</h3>
+
+- **Front-end**: React, HTML, CSS, JavaScript
+- **Back-end**: Node.js, Express.js
+- **Database**: MongoDB, MySQL
+- **Machine Learning**: TensorFlow
+- **Version Control**: Git/GitHub
+- **Operating Systems**: Windows, Linux (Ubuntu)
+
+<h3 align="left">🏅 Competitive Programming</h3>
+
+- **LeetCode profile**: [71762205203](https://leetcode.com/71762205203/)
+- **HackerRank profile**: [71762205203](https://www.hackerrank.com/71762205203)
+
+<h3 align="left">📫 Reach out to me</h3>
+
+- LinkedIn: [Logadeep](YOUR_LINKEDIN_URL)
+- Email: logadeep2001@gmail.com
