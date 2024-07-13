@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Logadeep R</h1>
 
 <p align="center">
-  🚀 I am a passionate Full Stack Developer with expertise in modern web development technologies and a keen interest in integrating traditional practices with cutting-edge technology. Currently pursuing my final year of BE in Computer Science and Engineering.
+  🚀 I am a passionate Full Stack Developer with expertise in modern web development technologies and a keen interest in integrating traditional practices with cutting-edge technology.
 </p>
 
 <p align="center">
@@ -10,12 +10,12 @@
 
 <h3 align="left">🔧 Skills</h3>
 
-- **Front-end**: React, HTML, CSS, JavaScript
-- **Back-end**: Node.js, Express.js
-- **Database**: MongoDB, MySQL
-- **Machine Learning**: TensorFlow
-- **Version Control**: Git/GitHub
-- **Operating Systems**: Windows, Linux (Ubuntu)
+- **Front-end**: ⚛️ React, 📝 HTML, 🎨 CSS, 🖥️ JavaScript
+- **Back-end**: 🌐 Node.js, 🚀 Express.js
+- **Database**: 🗄️ MongoDB, 🗃️ MySQL
+- **Machine Learning**: 🤖 TensorFlow
+- **Version Control**: 🛠️ Git/GitHub
+- **Operating Systems**: 🪟 Windows, 🐧 Linux (Ubuntu)
 
 <h3 align="left">🏅 Competitive Programming</h3>
 
@@ -26,3 +26,7 @@
 
 - LinkedIn: [Logadeep](YOUR_LINKEDIN_URL)
 - Email: logadeep2001@gmail.com
+
+<h3 align="left">📚 Education</h3>
+
+- **Bachelor of Engineering in Computer Science and Engineering**: Coimbatore Institute of Technology
