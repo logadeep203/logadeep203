@@ -10,7 +10,7 @@
 
 <h3 align="left">🔧 Skills</h3>
 
-- **Front-end**: ⚛️ React, 📝 HTML, 🎨 CSS, 🖥️ JavaScript
+- **Front-end**: ⚛️ React, 🖥️ JavaScript
 - **Back-end**: 🌐 Node.js, 🚀 Express.js
 - **Database**: 🗄️ MongoDB, 🗃️ MySQL
 - **Machine Learning**: 🤖 TensorFlow
@@ -20,11 +20,11 @@
 <h3 align="left">🏅 Competitive Programming</h3>
 
 - **LeetCode profile**: [71762205203](https://leetcode.com/71762205203/)
-- **HackerRank profile**: [71762205203](https://www.hackerrank.com/71762205203)
+- **HackerRank profile**: [71762205203](https://www.hackerrank.com/profile/h71762205203)
 
 <h3 align="left">📫 Reach out to me</h3>
 
-- LinkedIn: [Logadeep](YOUR_LINKEDIN_URL)
+- LinkedIn: [Logadeep](https://www.linkedin.com/in/logadeep-ramachandran-598914289/)
 - Email: logadeep2001@gmail.com
 
 <h3 align="left">📚 Education</h3>
